@@ -1,8 +1,8 @@
-# Original Prusa i3 MK2 Firmware
+# Original Prusa i3 MK2 Firmware [![Build Status](https://travis-ci.org/Sebastianv650/Prusa-Firmware.svg?branch=MK2_Community_Mod)](https://travis-ci.org/Sebastianv650/Prusa-Firmware)
 
 ## General instructions
 
-Pre-compiled hex output on PRUSA RESEARCH site: http://prusa3d.com/downloads/firmware/
+URL of the zip file containing precompiled firmware can be found toward the end of the build log: https://travis-ci.org/Sebastianv650/Prusa-Firmware
 
 Just download and flash it to the electronics
 
